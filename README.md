@@ -1,6 +1,6 @@
 <!--*- mode:markdown -*-->
 
-# Grafana SDK [![Go Report Card](https://goreportcard.com/badge/github.com/grafana-tools/sdk)](https://goreportcard.com/report/github.com/grafana-tools/sdk)
+# Grafana API [![Go Report Card](https://goreportcard.com/badge/github.com/grafana-tools/sdk)](https://goreportcard.com/report/github.com/grafana-tools/sdk)
 
 SDK for Go language offers a library for interacting with
 [Grafana](http://grafana.org) server from Go applications.  It
@@ -125,11 +125,3 @@ Distributed under Apache v2.0. All rights belong to the SDK
 authors. There is no authors list yet, you can see the full list of
 the contributors in the git history. Official repository is
 https://github.com/grafana-tools/sdk
-
-## Collection of Grafana tools in Golang
-
-* [github.com/nytm/go-grafana-api](https://github.com/nytm/go-grafana-api) — a golang client of Grafana project currently that realizes parts of the REST API, used for the Grafana Terraform provider.
-* [github.com/adejoux/grafanaclient](https://github.com/adejoux/grafanaclient) — API to manage Grafana 2.0 datasources and dashboards. It lacks features from 2.5 and later Grafana versions.
-* [github.com/mgit-at/grafana-backup](https://github.com/mgit-at/grafana-backup) — just saves dashboards localy.
-* [github.com/raintank/memo](https://github.com/raintank/memo) — send slack mentions to Grafana annotations.
-* [github.com/retzkek/grafctl](https://github.com/retzkek/grafctl) — backup/restore/track dashboards with git.
